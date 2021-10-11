@@ -2,7 +2,7 @@
 2. Gunakan tools ini dengan bijak,jangan sampai ada pihak manapun yang dirugikan
 3. Tools ini open source,jadi bisa dikembangkan lagi 
 
-```Cara Menggunakan Script Via Termux :
+```Cara Menggunakan Script Via Termux 
 > $ pkg update & pkg upgrade
 > $ pkg install python
 > $ pkg install git
@@ -11,7 +11,7 @@
 > $ cd Spam-Call-Termux-Linux
 > $ python spam-call.py
 ```
-```Cara Menggunakan Script Via Linux,Ubuntu (debian) :
+```Cara Menggunakan Script Via Linux,Ubuntu (debian) 
 > $ sudo apt update
 > $ sudo apt upgrade
 > $ sudo apt-get install python3-pip
